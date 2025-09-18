@@ -1,6 +1,7 @@
 What the Program does:
 
-Simulate 200,000 games of the Monty Hall Problem
+The programs asks the user to select how many games to run.
+If the user selected 200,000 games to simulate in the Monty Hall Problem:
 100,000 games where player stays with first choice
 100,000 games where player switches doors
 Show win percentages for both strategies
@@ -28,5 +29,6 @@ main.py - Entry point
 game_logic.py - Individual game mechanics
 simulation.py - Run multiple games
 results.py - Display formatted results
+
 
 The simulation  demonstrates the famous counterintuitive result: switching doors gives you 2x better odds of winning the car!
